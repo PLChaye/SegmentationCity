@@ -1,0 +1,36 @@
+iiiiiiiiiiiiiA A   A AaadddcccciadddccccaA A   A   A AannnnnnnnnnnagggannnnnnnnnnnaA A   AmmA   AQQQQQQQQQQQQQQQQQQQQQQ
+aaaaaaaaaaaaaA A   A AaadddcccciadddccccaA A   A   A AaaaaaaaaaaaaagggaaaaaaaaaaaaaA A   liih   AQQQQQQQQQQQQQQQQQQQQQQ
+ccccdddaliihaA A   A AaaaaaaaaaiaaaaaaaaaA A   A   A  ggggggggggggggggggggggggggggg  A   kiij   AQQQQQQQQQQQQQQQQQQQQQQ
+ccccdddakiijaA A   A AiiiiiiiiiiiiiiiiiiiA A   A   A AaaaaaaaaaaaaagggaaaaaaaaaaaaaA A   AmmA   AQQQQQQQQQQQQQQQQQQQQQQ
+ccccdddmmmmmm  A   A AaaaaaaaaaiaaaaaaaaaA A   A   A AafffffffffffagggafffffffffffaA A   AmmA   AQQQQQQQQQQQQQQQQQQQQQQ
+ccccdddaaaaaaA A   A AaadddcccciadddccccaA A   A   A AagggggggggggagggagggggggggggaA A   liih   AQQQQQQQQQQQQQQQQQQQQQQ
+ccccdddaliihaA A   A AaadddcccciadddccccaA A   A   A AagggggggggggagggggggggggggggaA A   kiij   AQQQQQQQQQQQQQQQQQQQQQQ
+aaaaaaaakiijaA A   A  mmdddcccciadddccccm  A   A   A AagggggggggggggggagggggggggggaA A   AmmA   AQQQQQQQQQQQQQQQQQQQQQQ
+aaaaaaaaaaaaaA A   A AaadddcccciadddccccaA A   A   A AagggggggggggagggagggggggggggaA A   AmmA   AQQQQQQQQQQQQQQQQQQQQQQ
+iiiiiiiFBBBBBE AOOOA AaadddcccciadddccccaA A   A   A AannnnnnnnnnnagggannnnnnnnnnnaA A   liih   AQQQQQQQQQQQQQQQQQQQQQQ
+aaaaaaaA FBBBBBE   A AaaaaaaaaaiaaaaaaaaaA U   A   A AaaaaaaaaaaaaagggaaaaaaaaaaaaaA V   kiijffffffffffffffffffffffffff
+aaaliihA A         A JBBBBBBBBBBBBBBBBBBBE AOOOAOOOA JBBBBBBBBBBBBB   BBBBBBBBBBBBBE AOOOHBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+ihakiijA A   FBD   JBBBBBBBBBBBBBBBBBBBBBPPE       JPPYBBBBBBBBBBBBBBBBBBBBBBBBBBBBPPE   JBBWBBBBBBBBBBBBBBBBBBBBBBBBBB
+ijaaaaaA A   AiA                         PP         PP                             PP                                  
+aaaliihA A   AiJBBBBBBBBBBBBBBBBBBBBBBBBBPPD       FPPBBBBBBBBBBBBBBBBBBBBBBBBBBBBBPPD   FBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+haakiijA A   AiZZZZZZZZZZZZZZZZZZZZZZZZZZRRRRRRRRRRRRRZZZZZZZZZZZZZZZZZZZZZZZZZZZZZRRRRRRRZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+jaaaaaaA A   AiaaaaaaaaaaaaaaaaaaaaaaaaaaA A   A   A  mmmmmmmmtttttttttttmmmmmmmmmmA A   Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+mmmmmmm  A   AiZZZZZZZZZZZZZZZZZZZZZZZZZZRRRRRRRRRRRRRZZZZZZZZZZZZZZZZZZZZZZZZZZZZZRRRRRRRZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+ihaaaaaA A   AiiiiiiiiiiiiiiiiiiiiiiiiiiiA A   A   X AaaliihaaaaaaaaaaaaaaaaaliihaaA A   JBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+ijaliihA A   A  fffffffffffffffffffffff  A A   A   A AaakiijaaaaaaaaaliihaaaakiijaaA A                                 
+aaakiijA A   A  ggggggggggggggggggggggg  A A   A   A AaaaaaaaaaaaaaaakiijaaaaaaaaaaA AOOOFBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+haaaaaaA A   A  ggggggggggggggggggggggg  A A   A   A  mmmmmmmmmmmmaaaaaaaaaaaaaaaaaA A   HBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+jaaliihA A   A  ggggggggggggggggggggggg  A A   A   A Aaaaaaaaaammmaaaaaaaaaammmmmmm  A   liihnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaakiijA A   A  nnnnnnnnnnnnnnnnngggggg  A A   A   A AaaaaaaaaammmmmmmmmmmmmmmmaaaaA A   kiij   AQQQQQQQQQQQQQQQQQQQQQQ
+aaaaaaaA A   A    liih           gggggg  A A   A   A AaaaliihaaaaaaaaaaaaaaammmaaaaA A   AmmA   AQQQQQQQQQQQQQQQQQQQQQQ
+ihaliihA A   A    kiij           nnnnnn  A A   A   A AaaakiijaaliihaaaaaliihmmmaaaaA A   AmmA   AQQQQQQQQQQQQQQQQQQQQQQ
+ijakiijA A   A                           A K   A   A AaaaaaaaaakiijaaaaakiijmmmaaaaA A   liih   AQQQQQQQQQQQQQQQQQQQQQQ
+BBBBBBBE AOOOHBBBBBBBBBBBBP   PBBBBBBBBBBE AOOOAOOOA JBBBBBBBBBBBBBBBBBBBBBB   BBBBE A   kiij   AQQQQQQQQQQQQQQQQQQQQQQ
+BBBBBBBBBE   JBBBBBBBBBBBBBBBBBBBBBBBBBBBPPE       JPPBBBBBBBBBBBBBBBBBBBBBBBBBBBBBPPE   AmmA   AQQQQQQQQQQQQQQQQQQQQQQ
+                                         PP         PP                             PP    AmmA   AQQQQQQQQQQQQQQQQQQQQQQ
+BBBBBBBBBBBBBBBBBD   FBBBBBBBBBBBBBD   FLPPD       FPPBBBBBBBBBBBBBBGBBBBBBBBBBBBBBPPD   liih   AQQQQQQQQQQQQQQQQQQQQQQ
+aliihaaliihaaliihA   JBBBBBBBBBBBBBE   HBD A   A   K AiiFBBBBeBBBBDiAiFBBBBeBBBBDiiA A   kiij   AQQQQQQQQQQQQQQQQQQQQQQ
+akiijaakiijaakiijA                     AaA A   A   A AiiHBBGBeBGBBsiAiHBBGBeBGBBsiiA A   AmmA   AQQQQQQQQQQQQQQQQQQQQQQ
+aaaaaaaaaaaaaaaaaA A A A A A A A A A A AaA A   A   A AiiAiiHBeBsiiAiAiAiiHBeBsiiAiiA A   AmmA   AQQQQQQQQQQQQQQQQQQQQQQ
+aadddccccaaaliihaJBIBIBIBIBIBIBIBIBIBIBEaA A   A   A AiiHBBIBeBIBBsiAiHBBIBeBIBBsiiA A   liih   AQQQQQQQQQQQQQQQQQQQQQQ
+aadddccccaaakiijaiaaaaaaaaaaaaaaaaaaaaaaaA A   A   A AiiJBBBBePBBBEiAiJBBBPeBBBBEiiA A   kiij   AQQQQQQQQQQQQQQQQQQQQQQ

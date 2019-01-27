@@ -1,0 +1,36 @@
+              D                           D  D                                      D  D                               
+              D  U  U                     D  D   U  U               U               D  D      U                        
+              D  U  U                     D  D   ULLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLC  D      U                        
+              D  U  U                     D  D   U  U               U               D  D      U                        
+       RRRRRRRD  U  U                     D  D   U  U               U               D  D      U                        
+              D  U  U                     D  D   U  U               U               D  D      U                        
+              D  U  U                     D  D   U  U               UR              D  D      U                        
+              D  U  CRR                 RRDLLL   U  U             RRU               D  D      U                        
+              D  U  U                     D  D   U  U               U               D  D      U                        
+        DLLLLLLLLCLLC                     D  D   U  U               U               D  D      U                        
+        D        U  U                     D  C   U  U               U               D  C      C                        
+        D  DLLLLLC  ULLLLLLLLLLLLLLLLDLLLLLLLCLLLULLLLLLLLLLLLLLLLLLCLLLLLLLLLLLLLLLCLLCLLCLLLCLLLLLLLLLLLLLLLLLLLLLLLL
+        D  D     U                   DLLLLL  D   U  U  U                            D  D      U                        
+        D  D     ULLLLLLLLLLLLLLLLLLLLLLLLCLLCLLLCLLCLCULLLLLLLLLLLLLLLLLLLLLLLLLLLLCLLCLLLLCLCLLLLLLLLLLLLLLLLLLLLLLLL
+        D  D                              D  D   U  U                               D  D      U                        
+        D  D  RRRRRRRRRRRRRRRRRRRRRRRRRRRRCRRCRRRCRRCRRRRRRRRRCCCCCCCCCCCRRRRRRRRRRRCRRCRRRRRRCRRRRRRRRRRRRRRRRRRRRRRR 
+        D  D                              D  D   U  CRRRRRRRRRRRRC   RRRRRRRRRRRRRRRD  D      U                        
+ LLLLLLLC  D   LLLLLLLLLLLLLLLLLLLLLLLLLLLCLLCLLLCLLCLLLLLLLLLCCCCCCCCCCCLLLLLLLLLLLCLLCLLLLLLCLLLLLLLLLLLLLLLLLLLLLLLL
+        D  D                              D  D   U  C                               D  D      U                        
+        D  D                              D  D   C  U                               D  CRRRRRRCRRRRRRRRRRRRRRRRRRRRRRR 
+        D  D                              D  D   U  U                               CRRCRRRRRRCRRRRRRRRRRRRRRRRRRRRRRR 
+        D  D                              D  D   RRRRRRRRRRRRRRRD                   D  D      U                        
+        D  D                              D  D   U  U           D            DLLLLLLC  D      U                        
+        D  D                              D  D   U  U           RRRRRRRRRRRRRD      D  D      C                        
+        D  D                 D            D  D   U  U                        D      D  D      U                        
+        D  D                UD            D  D   U  U                        D      D  D      U                        
+        D  D                UD            D  C   U  U                        D      D  D      U                        
+RRRRRRRRCRRCRRRRRRRRRRRRRRRRCRRRRRRRRRRRRRCRRCRRRCRRCRRRRRRRRRRRRRRRRRRRRRRRRDRRRRRRC  D      U                        
+           D                              D  D   U  U                        D      D  D      U                        
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRCRRCRRCRRRRRRCRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRCRRD      U                        
+                                          D  D   U  U                               D  D      U                        
+                                          D  D   C  C                               D  D      U                        
+                                          D  D   U  U                               D  D      U                        
+                                          D  D   U  U                               D  D      U                        
+                                          D  D   U  U                               D  D      U                        
+                                                 U  U                                         U                        
